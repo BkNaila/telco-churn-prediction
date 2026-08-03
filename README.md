@@ -1,6 +1,6 @@
 # Telco Customer Churn Prediction
 
-A classic Machine Learning project predicting customer churn for a telecom company, built to deepen my understanding of ML fundamentals and as part of my portfolio for a Master's application in AI.
+A classic Machine Learning project predicting customer churn for a telecom company, built to deepen my understanding of ML fundamentals.
 
 ## Dataset
 
